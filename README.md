@@ -1,13 +1,13 @@
 # AutoCost-AI
 AI Enterprise Cost Intelligence &amp; Autonomous Action Platform
 
-📌 Overview
+# 📌 Overview
 
 AutoCost AI is an intelligent enterprise platform designed to detect, analyze, and eliminate cost leakages automatically. Unlike traditional dashboards that only provide insights, AutoCost AI goes a step further by taking autonomous actions to optimize enterprise spending in real time.
 
 It leverages Artificial Intelligence, Machine Learning, and Data Analytics to identify inefficiencies such as duplicate payments, unused subscriptions, and abnormal spending patterns.
 
-🎯 Problem Statement
+# 🎯 Problem Statement
 
 Organizations lose a significant amount of money due to:
 
@@ -21,64 +21,97 @@ Organizations lose a significant amount of money due to:
 
 Traditional systems are reactive, not proactive.
 
-💡 Solution
+# 💡 Solution
 
 AutoCost AI provides:
 
 🔍 Cost Leakage Detection using ML models
+
 📊 Real-Time Monitoring of enterprise expenses
+
 🤖 Autonomous Decision-Making for cost optimization
+
 📈 Predictive Insights to prevent future losses
-🛠️ Features
+
+# 🛠️ Features
 ✔️ Duplicate Cost Detection
+
 ✔️ Subscription Waste Identification
+
 ✔️ Anomaly Detection in Spending
+
 ✔️ Smart Alerts & Recommendations
+
 ✔️ Automated Cost Optimization Actions
+
 ✔️ Interactive Dashboard (Streamlit-based)
-🧠 Technologies Used
-Python
-Machine Learning (Scikit-learn / TensorFlow / Keras)
-Streamlit (for UI)
-Pandas & NumPy (data processing)
-Matplotlib / Seaborn (visualization)
-Ngrok (for deployment/demo)
-⚙️ System Architecture
-Data Collection
-Data Preprocessing
-Feature Engineering
-ML Model (Detection + Prediction)
-Decision Engine
-Autonomous Action Layer
-Dashboard Visualization
-🚀 Installation & Setup
+
+# 🧠 Technologies Used
+- Python
+  
+- Machine Learning (Scikit-learn / TensorFlow / Keras)
+  
+- Streamlit (for UI)
+  
+- Pandas & NumPy (data processing)
+  
+- Matplotlib / Seaborn (visualization)
+  
+- Ngrok (for deployment/demo)
+
+# ⚙️ System Architecture
+- Data Collection
+
+- Data Preprocessing
+
+- Feature Engineering
+
+- ML Model (Detection + Prediction)
+
+- Decision Engine
+
+- Autonomous Action Layer
+
+- Dashboard Visualization
+
+# 🚀 Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-repo/autocost-ai.git
 cd autocost-ai
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 3️⃣ Run the Application
 streamlit run app.py
+
 4️⃣ (Optional) Run using Ngrok
 ngrok config add-authtoken YOUR_TOKEN
 ngrok http 8501
-📊 Usage
-Upload the enterprise cost dataset
-View detected anomalies and leakages
-Get AI-generated recommendations
-Allow system to take automated actions
-📈 Future Scope
-Integration with cloud platforms (AWS, Azure, GCP)
-Blockchain-based cost verification
-Advanced NLP for invoice analysis
-Real-time enterprise ERP integration
 
-👩‍💻 Team
+# 📊 Usage
+- Upload the enterprise cost dataset
 
-** Team ROCKETMS
+- View detected anomalies and leakages
+
+- Get AI-generated recommendations
+
+- Allow the system to take automated actions
+
+# 📈 Future Scope
+- Integration with cloud platforms (AWS, Azure, GCP)
+
+- Blockchain-based cost verification
+
+- Advanced NLP for invoice analysis
+
+- Real-time enterprise ERP integration
+
+
+# 👩‍💻 Team ROCKETMS
 
 - Mansi Kushwaha
 - Sheetal
 
 
-This project is for academic and hackathon purposes.
