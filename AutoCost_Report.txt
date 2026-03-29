@@ -1,0 +1,9 @@
+
+AutoCost AI Report
+
+Fraud Loss Prevented: Rs 12056415427.839998
+Duplicate Payments Prevented: Rs 0.0
+Anomaly Loss Prevented: Rs 275977392459.23
+
+Total Monthly Savings: Rs 288033807887.07
+Estimated Yearly Savings: Rs 3456405694644.84
