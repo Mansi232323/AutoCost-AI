@@ -11,10 +11,13 @@ It leverages Artificial Intelligence, Machine Learning, and Data Analytics to id
 
 Organizations lose a significant amount of money due to:
 
--Duplicate transactions
--Unused or underutilized resources
--Inefficient cost tracking systems
--Delayed decision-making based on static reports
+- Duplicate transactions
+
+- Unused or underutilized resources
+
+- Inefficient cost tracking systems
+
+- Delayed decision-making based on static reports
 
 Traditional systems are reactive, not proactive.
 
