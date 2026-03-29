@@ -45,6 +45,10 @@ AutoCost AI provides:
 
 📈 Predictive Insights to prevent future losses
 
+## 🎥 Demo Video  
+
+🔗 [Watch Demo Video](https://drive.google.com/file/d/1vIWvhi0aNTf_uElcF13_3FsJPxPxcPJF/view?usp=drive_link)
+
 # 🛠️ Features
 ✔️ Duplicate Cost Detection
 
