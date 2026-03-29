@@ -72,20 +72,13 @@ Integration with cloud platforms (AWS, Azure, GCP)
 Blockchain-based cost verification
 Advanced NLP for invoice analysis
 Real-time enterprise ERP integration
+
 👩‍💻 Team
 
-Team ROCKETMS
+** Team ROCKETMS
 
-Mansi Kushwaha
-Sheetal
-🏫 Institution
+- Mansi Kushwaha
+- Sheetal
 
-Indira Gandhi Delhi Technical University for Women (IGDTUW)
-
-📅 Date
-
-29 March 2026
-
-📄 License
 
 This project is for academic and hackathon purposes.
