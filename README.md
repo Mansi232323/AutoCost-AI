@@ -21,6 +21,10 @@ Organizations lose a significant amount of money due to:
 
 Traditional systems are reactive, not proactive.
 
+# Dataset Link 
+
+https://drive.google.com/file/d/1unh0e4L-JM0cyEb7zO5W8VJagjgYrO0V/view?usp=sharing
+
 # 💡 Solution
 
 AutoCost AI provides:
