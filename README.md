@@ -47,7 +47,7 @@ AutoCost AI provides:
 
 ## 🎥 Demo Video  
 
-🔗 [Watch Demo Video](https://drive.google.com/file/d/1x2ZAM1A9lHDXRblI4-jvVsZ6hyVZLjRc/view?usp=sharing)
+🔗 [Watch Demo Video](https://drive.google.com/file/d/1uuujyek6Fy4TrXOUQ0MGqfp1Ejnn8pXP/view?usp=sharing)
 
 # 🛠️ Features
 ✔️ Duplicate Cost Detection
